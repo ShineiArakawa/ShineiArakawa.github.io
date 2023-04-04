@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: "_pages/AboutMe/"
+    url: "/"
   - title: "Publications"
     url: "_pages/Publications/"
   - title: "Awords"
