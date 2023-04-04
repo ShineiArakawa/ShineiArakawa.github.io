@@ -17,6 +17,6 @@ Visual Computing (VC) Posters, No. 10, October 2022.
 **マルチ解像度で画像を生成可能な拡散確率モデル.**\\
 Visual Computing (VC) workshops, No. 10, November 2022.
 
-荒川 深映, 綱島 秀樹, 堀田 大地, 森島 繁生.\\
+荒川 深映, 綱島 秀樹\*, 堀田 大地\*, 森島 繁生. (\*同一貢献)\\
 **複数解像度で画像を生成可能な拡散確率モデル.**\\
 情報処理学会 第85回全国大会, pp. XX–XX, March 2023.
