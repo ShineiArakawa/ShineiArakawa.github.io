@@ -20,12 +20,12 @@ title                    : "Shinei Arakawa"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shinei Arakawa"
-description              : "An amazing website."
+description              : "An amazing website of Shinei Arakawa."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/tanuki.JPG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/sakura.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Shinei Arakawa"
   avatar           : "/assets/images/ShineiArakawa_squared_1024.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "M.S. student in Waseda University, Japan."
   location         : "Tokyo, Japan"
   email            : "shinei-rockies@akane.waseda.jp"
   links:
@@ -137,13 +137,10 @@ footer:
       url: "https://twitter.com/ShineiArakawa"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/shineiarakawa.sakura/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/ShineiArakawa"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
