@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Shinei Arakawa"
   avatar           : "/assets/images/ShineiArakawa_squared_1024.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "M.S. student in Waseda University, Japan."
+  bio              : "M.E. student in Waseda University, Japan."
   location         : "Tokyo, Japan"
   email            : "shinei-rockies@akane.waseda.jp"
   links:
