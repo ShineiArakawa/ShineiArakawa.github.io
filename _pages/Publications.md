@@ -6,7 +6,8 @@ classes: wide
 ## International Conference Papers (reviewed)
 Shinei Arakawa, Hideki Tsunashima, Daichi Horita, Keitaro Tanaka, Shigeo Morishima.\\
 **Memory Efficient Diffusion Probabilistic Models via Patch-based Generation.**\\
-IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) workshops, June 2023.
+IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) workshops, June 2023.\\
+[[paper](https://arxiv.org/abs/2304.07087)]
 
 ## Japanese Presentations
 Shinei Arakawa, Hideki Tsunashima, Daichi Horita, Keitaro Tanaka, Shigeo Morishima.\\
