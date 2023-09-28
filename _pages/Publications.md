@@ -10,6 +10,10 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) workshops, Ju
 [[paper](https://arxiv.org/abs/2304.07087)][[poster](https://drive.google.com/file/d/1iXon42MOC-z3G-_gG2rDEncn3vP5qt8L/view?usp=sharing)]
 
 ## Domestic Conference Papers
+荒川 深映, Erik Härkönen, 綱島 秀樹, 堀田 大地, 森島 繁生.\\
+**拡散モデルを用いたパッチ単位の任意スケール画像生成.**\\
+Visual Computing (VC) Posters, No. 20, September 2023.
+
 荒川 深映, 綱島 秀樹, 堀田 大地, 田中 啓太郎, 森島 繁生.\\
 **パッチ分割による拡散確率モデルのメモリ消費量削減の検討.**\\
 画像の認識・理解シンポジウム (MIRU), July 2023.\\
