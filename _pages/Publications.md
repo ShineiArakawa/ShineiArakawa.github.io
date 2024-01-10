@@ -30,3 +30,4 @@ Visual Computing (VC) workshops, No. 10, November 2022.
 Shinei Arakawa, Hideki Tsunashima, Daichi Horita, Keitaro Tanaka, Shigeo Morishima.\\
 **Patch-based Memory Efficient Diffusion Probabilistic Models.**\\
 Visual Computing (VC) Posters, No. 10, October 2022.
+
