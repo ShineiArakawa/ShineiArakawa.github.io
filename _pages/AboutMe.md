@@ -7,7 +7,7 @@ classes: wide
 I am a student pursuing Master's degree in [Waseda University](https://www.waseda.jp/top/en/), [Morishima Lab](https://morishima-lab.jp/?lang=en).
 My research interests are in Machine Learning, Computer Vision, and Computer Graphics.
 Currently, I am focusing on generative models.
-[Here is my CV](https://github.com/ShineiArakawa/ShineiArakawa.github.io/assets/shared/ShineiArakawa_CV.pdf).
+[Here is my CV](https://ShineiArakawa.github.io/files/ShineiArakawa_CV.pdf).
 
 ## Education
 M.E. in Applied Physics, Waseda University, Tokyo, Japan\\
