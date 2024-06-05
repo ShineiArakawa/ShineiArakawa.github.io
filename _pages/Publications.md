@@ -7,7 +7,7 @@ classes: wide
 Shinei Arakawa, Hideki Tsunashima, Daichi Horita, Keitaro Tanaka, Shigeo Morishima.\\
 **Memory Efficient Diffusion Probabilistic Models via Patch-based Generation.**\\
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) workshops, June 2023.\\
-[[paper](https://arxiv.org/abs/2304.07087)][[poster](https://drive.google.com/file/d/1iXon42MOC-z3G-_gG2rDEncn3vP5qt8L/view?usp=sharing)]
+[[paper](https://arxiv.org/abs/2304.07087)][[poster](https://drive.google.com/file/d/1iXon42MOC-z3G-_gG2rDEncn3vP5qt8L/view?usp=sharing)][[code](https://github.com/ShineiArakawa/patch-based-ddpm)]
 
 ## Domestic Conference Papers
 荒川 深映, Erik Härkönen, 綱島 秀樹, 堀田 大地, 森島 繁生.\\
